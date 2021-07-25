@@ -17,9 +17,9 @@
   transform: translateX(-50%) translateY(-50%);
 }
 */
-/*img {
-  width: 100%;
-height: 100%;}
+img {
+  width: relative;
+height: relative}
 /*-----LoginBox-----*/
 .box 
 {
