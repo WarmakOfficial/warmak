@@ -96,17 +96,19 @@ height: 100%;}
 	padding: 10px 20px;
 	cursor: pointer;
 	border-radius: 5px;
+	margin-left: 60px;
+
 
 }
 
 .box input[type="submit"]:hover,.form button:focus {
-  background: #3DF55E;
+  background: #E74C3C;
    box-shadow: 0 5px 8px;
   transform: translateY(-2px);
   animation-delay: 2s;
 }
 
-h3 {font-size: 14px;
+ h3 {font-size: 14px;
 	font-family:sans-serif,serif;
 	text-align: center;
 	color: #fff;
@@ -141,5 +143,3 @@ h3 {font-size: 14px;
 	margin-top: 1%;
 
 }
-
-
