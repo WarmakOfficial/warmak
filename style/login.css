@@ -106,4 +106,40 @@ height: 100%;}
   animation-delay: 2s;
 }
 
+h3 {font-size: 14px;
+	font-family:sans-serif,serif;
+	text-align: center;
+	color: #fff;
+}
+
+.box input[type="button"]
+{
+	background: transparent;
+	border: none;
+	outline: none;
+	color: #fff;
+	background: rgba(0,0,0,.5);
+	padding: 15px 10px;
+	cursor: pointer;
+	border-radius: 5px;
+	margin: 1%;
+	margin-left: 1%;
+}
+
+.box input[type="button"]:hover,.form button:focus {
+  background: #1EA362;
+   box-shadow: 0 5px 8px;
+  transform: translateY(-2px);
+  animation-delay: 2s;
+}
+
+.box p 
+{
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 12px;
+	margin-top: 1%;
+
+}
+
 
